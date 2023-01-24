@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Myselef Prashant Kumar. Currently I'm in my 3rd year of graduation pursuing B.E. in Computer Science and Engineering.
 
+- 🔭 I’m currently working on Wed development and Cross platform App development.
+- 👯 I’m looking to collaborate on anything
+- 📫 How to reach me: https://www.linkedin.com/in/prashant-kumar-4bbbb3229/
+- ⚡ Fun fact: obsessed with MMA and Video Games :smile:
 <!--
 **prashantkr29/prashantkr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
