@@ -4,7 +4,7 @@ Myself Prashant Kumar. Currently I'm in my 3rd year of undergraduate pursuing B.
 
 - 🔭 I’m currently working on Web development and Cross platform App development.
 - 👯 I’m looking to collaborate on anything
-- 📫 How to reach me: https://www.linkedin.com/in/prashant-kumar-4bbbb3229/
+- 📫 How to reach me: [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-4bbbb3229/)
 - ⚡ Fun fact: obsessed with MMA and Video Games :smile:
 <!--
 **prashantkr29/prashantkr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
