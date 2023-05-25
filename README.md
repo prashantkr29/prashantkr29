@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-Myself Prashant Kumar. Currently I'm in my 3rd year of graduation pursuing B.E. in Computer Science and Engineering.
+Myself Prashant Kumar. Currently I'm in my 3rd year of undergraduate pursuing B.E. in Computer Science and Engineering.
 
-- 🔭 I’m currently working on Wed development and Cross platform App development.
+- 🔭 I’m currently working on Web development and Cross platform App development.
 - 👯 I’m looking to collaborate on anything
 - 📫 How to reach me: https://www.linkedin.com/in/prashant-kumar-4bbbb3229/
 - ⚡ Fun fact: obsessed with MMA and Video Games :smile:
