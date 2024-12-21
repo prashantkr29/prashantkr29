@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,bash,javascript,react,postgresql,docker,kubernetes,jenkins,gcp,azure,grafana,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,bash,javascript,react,postgresql,docker,kubernetes,jenkins,gcp,azure,grafana,&perline=7)](https://skillicons.dev)
+
+<img src="https://devicon-website.vercel.app/api/argocd/original.svg" width="50px" height="50px" alt="ArgoCD Logo">
+
+
+
+
           
           
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
