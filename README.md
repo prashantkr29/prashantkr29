@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages/Tools/Technologies :
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,bash,linux,javascript,react,postgresql,docker,kubernetes,jenkins,gcp,azure,grafana,ansible&perline=15)](https://skillicons.dev)
 
