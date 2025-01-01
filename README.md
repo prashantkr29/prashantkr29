@@ -2,8 +2,8 @@
 
 Myself Prashant Kumar. .
 
-- 🔭 I’m currently working as Devops Engineer
-- 👯 Enthusiast about Cloud computing, CI/CD Workflows, GPUs.
+- 🔭 I’m currently working as a Software Engineer
+- 👯 Interests: Backend development, cloud computing, CI/CD Workflows, and GPUs .
 - 📫 How to reach me: [Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-4bbbb3229/)
 <!--
 **prashantkr29/prashantkr29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
